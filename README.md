@@ -69,3 +69,7 @@ Proyecto uno/
 2. Librerías principales: pandas, scikit-learn, joblib, requests.
 
 3. Dataset: SMS Spam Collection - UCI Machine Learning Repository
+
+
+## 🖼️ Demo
+![Ejemplo de predicción](demo.png)
