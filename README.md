@@ -71,5 +71,5 @@ Proyecto uno/
 3. Dataset: SMS Spam Collection - UCI Machine Learning Repository
 
 
-## 🖼️ Demo
+## Demo
 ![Ejemplo de predicción](demo.PNG)
