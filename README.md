@@ -72,4 +72,4 @@ Proyecto uno/
 
 
 ## 🖼️ Demo
-![Ejemplo de predicción](demo.png)
+![Ejemplo de predicción](demo.PNG)
